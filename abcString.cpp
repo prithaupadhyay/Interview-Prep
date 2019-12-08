@@ -1,6 +1,11 @@
-/* Given a length n.
- Count the number of strings of length n that can be made using ‘a’, ‘b’ and ‘c’ 
- with at-most one ‘b’ and two ‘c’s allowed. */
+/* 
+Given a length n. Count the number of strings of length n that can be made using ‘a’, ‘b’ and ‘c’ with at-most one ‘b’ and two ‘c’s allowed.
+
+Author: Mohak Khare
+
+Approach:
+
+ */
 
 #include <bits/stdc++.h>
 using namespace std;

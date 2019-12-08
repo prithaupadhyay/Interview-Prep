@@ -12,7 +12,7 @@ Output: 4
 Approach: 
 Idea is to split the Roman Numeral string into Roman Symbols (character).We will convert each symbol of Roman Numerals into the value it represents.Then we take symbol one by one from starting from index 0:
     -If current value of symbol is greater than or equal to the value of next symbol, then add this value to the running total.
-    -else subtract this value by adding the value of next symbol to the running total.
+    -else subtract this value by adding the value of next symbol to thep running total.
 
 */
 

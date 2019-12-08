@@ -1,11 +1,11 @@
 /* 
-    Given an array A[ ] denoting the time taken to complete N tasks, 
-    determine the minimum amount of time required to finish the tasks
-    considering that you can skip any task, 
-    but skipping two consecutive tasks is forbidden.
+Given an array A[ ] denoting the time taken to complete N tasks, determine the minimum amount of time required to finish the tasks considering that you can skip any task, but skipping two consecutive tasks is forbidden.
+Expected Time Complexity: O(n)
+Expected Space Complexity: O(1)
 
-    Expected Time Complexity: O(n)
-    Expected Space Complexity: O(1)
+Author: Mohak Khare
+
+Approach:
 
         */
 #include <iostream>
