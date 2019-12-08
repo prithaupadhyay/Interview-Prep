@@ -1,6 +1,7 @@
 /*
 Subset Sum Problem
 Author: Ishita Das
+Approach: (Issue in Progress)
 */
 
 import java.lang.*;

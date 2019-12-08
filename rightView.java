@@ -1,3 +1,9 @@
+/*
+Description: (Issue in Progress)
+Author: Ishita Das
+
+Approach: (Issue in Progress)
+*/
 class Tree{
     int max = 0;
     Node root;
