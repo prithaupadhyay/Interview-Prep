@@ -1,3 +1,8 @@
+/*
+Coin Change Problem
+Author: Mohak Khare
+
+*/
 #include <bits/stdc++.h>
 using namespace std;
 long long int tab(long long int n, long long int m, long long int a[]){
