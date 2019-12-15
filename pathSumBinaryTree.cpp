@@ -5,7 +5,6 @@ Author: Pritha Upadhyay
 
 Approach: 
 The idea is to traverse from root to all leaves in top-down fashion maintaining a path[] array to store current root to leaf path. While traversing, store data of all nodes of current path in the array path[]. Whenever a leaf node is reached, calculate the sum of all of the nodes on the current path using the array path[] and check if it is equal to the given sum.
-
 */
 
 /**
