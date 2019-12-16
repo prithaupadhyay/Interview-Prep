@@ -16,3 +16,18 @@ Problem to predict Column with Maximum Zeroes.
 
 #### <li>ConsonentsAndVowelsCheck.cpp
 Program to Compare the number of Vowels and Consonents.
+
+#### <li>DFS_NaryTree.cpp
+DFS for a n-ary tree (acyclic graph) represented as adjacency array.
+
+#### <li>Implement_strStr.cpp
+Implement strStr()
+
+#### <li>kthSmallestElement.cpp
+Kth Smallest Element of an Unsorted Array.
+
+#### <li>LengthOfLastWord.cpp
+Length of the last word in a string.
+
+#### <li>LowestCommonPrefix.cpp
+Lowest Common Prefix between two strings.
