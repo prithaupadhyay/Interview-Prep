@@ -1,6 +1,6 @@
 # Interview-Preparation
 
-Preparation Content for Software Engineering Technical Interview.
+Preparation Content for Software Engineering Technical Interviews.
 
 ## List of Problems
 (Mapping of program names with description)
