@@ -16,6 +16,7 @@ Output:
         11101101
 
 Approach: 
+Here we used recursive approach.
 We pass index of next character to the recursive function. If the current character is a wildcard character ‘?’, we replace it by ‘0’ or ‘1’ and recurse for remaining characters. We print the string if we reaches its end. 
 */
 
